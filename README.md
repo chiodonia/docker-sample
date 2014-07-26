@@ -49,3 +49,10 @@ redis-cli
 	connect 192.168.59.103 6379
 	monitor
 ```
+
+## Links
+* https://docs.docker.com/
+* https://www.youtube.com/watch?v=VeiUjkiqo9E
+
+* http://blog.javabien.net/2014/03/04/java-8-http-helloworld-with-docker-on-google-compute-engine/
+* https://docs.google.com/presentation/d/1SbCiZwOLwgAii2WfhcD7jw0i63x9tUo4azzfxMlfiR4/edit?pli=1#slide=id.g2b599ff50_00
